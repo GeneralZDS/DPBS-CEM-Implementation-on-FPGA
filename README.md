@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
 
-By [Dongsheng Zhao](https://generalzds.github.io/), Leijie
+By [Dongsheng Zhao](https://generalzds.github.io/), Leijie.
 
 ### Introduction
 
